@@ -2,7 +2,7 @@
 
 This Python code is a script for brute-forcing Instagram account passwords. Here's a summary of its functionality and key features:
 
-User Interface: The script provides a simple command-line interface for interacting with the user.
+## User Interface: The script provides a simple command-line interface for interacting with the user.
 Banner Display: It displays a banner with the title "Instagram Brute Force" using ASCII art when the script starts.
 Internet Connection Check: It checks whether the internet connection is available or not. If the internet connection is online, it displays a message in green font; otherwise, it displays a message in red font and exits the script.
 Username Validation: It checks whether the provided target username is valid or not by making a request to the Instagram login page. If the username is invalid (not found on Instagram), the script stops further execution.
